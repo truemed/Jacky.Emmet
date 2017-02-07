@@ -12,7 +12,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Jacky")]
 [assembly: AssemblyProduct("Jacky.Emmet")]
-[assembly: AssemblyCopyright("Copyright(c) 2013 Jacky. All rights reserved.")]
+[assembly: AssemblyCopyright("Copyright(c) 2013-2017 Jacky. All rights reserved.")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]   
 [assembly: ComVisible(false)]     
@@ -29,7 +29,7 @@ using System.Runtime.InteropServices;
 // You can specify all the values or you can default the Revision and Build Numbers 
 // by using the '*' as shown below:
 
-[assembly: AssemblyVersion("1.0.0.0")]
+[assembly: AssemblyVersion("1.0.4.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]
 
 
